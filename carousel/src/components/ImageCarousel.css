@@ -1,0 +1,26 @@
+img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover; 
+}
+.container{
+    position: relative;
+}
+.left-btn, .right-btn{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 2rem;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 10%;
+    transition: background-color 0.5s;
+}
+.left-btn{
+    left: 0;
+}
+.right-btn{
+    right: 0;
+}
