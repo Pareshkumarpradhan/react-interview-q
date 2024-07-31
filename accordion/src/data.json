@@ -1,0 +1,85 @@
+{
+    "faqs": [
+      {
+        "question": "What is the return policy?",
+        "answer": "You can return any item within 30 days of purchase for a full refund."
+      },
+      {
+        "question": "How do I track my order?",
+        "answer": "Once your order has shipped, you will receive an email with a tracking number."
+      },
+      {
+        "question": "Can I change my shipping address?",
+        "answer": "Yes, you can change your shipping address before your order is shipped by contacting our customer service."
+      },
+      {
+        "question": "Do you ship internationally?",
+        "answer": "Yes, we ship to most countries around the world. Shipping fees and delivery times vary by location."
+      },
+      {
+        "question": "How can I contact customer service?",
+        "answer": "You can contact customer service via email at support@example.com or call us at 1-800-123-4567."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept Visa, MasterCard, American Express, Discover, and PayPal."
+      },
+      {
+        "question": "How do I apply a discount code?",
+        "answer": "You can apply a discount code at checkout. Enter the code in the designated field and click 'Apply'."
+      },
+      {
+        "question": "What should I do if I receive a damaged item?",
+        "answer": "If you receive a damaged item, please contact our customer service immediately with your order number and a photo of the damage."
+      },
+      {
+        "question": "Can I cancel my order?",
+        "answer": "You can cancel your order within 24 hours of purchase. After that, we may not be able to cancel as the order may already be processed."
+      },
+      {
+        "question": "How long does it take to process a refund?",
+        "answer": "Refunds are processed within 5-7 business days after we receive the returned item."
+      },
+      {
+        "question": "Do you offer gift wrapping?",
+        "answer": "Yes, we offer gift wrapping for an additional fee. You can select this option at checkout."
+      },
+      {
+        "question": "How do I create an account?",
+        "answer": "You can create an account by clicking on the 'Sign Up' button at the top right corner of our website and filling out the registration form."
+      },
+      {
+        "question": "What should I do if I forget my password?",
+        "answer": "If you forget your password, click on 'Forgot Password' on the login page and follow the instructions to reset it."
+      },
+      {
+        "question": "How can I update my account information?",
+        "answer": "You can update your account information by logging into your account and going to the 'Account Settings' page."
+      },
+      {
+        "question": "What is your privacy policy?",
+        "answer": "Our privacy policy explains how we collect, use, and protect your personal information. You can read it on our website."
+      },
+      {
+        "question": "Do you offer wholesale pricing?",
+        "answer": "Yes, we offer wholesale pricing for bulk orders. Please contact our sales team for more information."
+      },
+      {
+        "question": "What is your exchange policy?",
+        "answer": "You can exchange an item within 30 days of purchase. The item must be in its original condition and packaging."
+      },
+      {
+        "question": "Can I request a specific delivery date?",
+        "answer": "While we cannot guarantee specific delivery dates, you can add a note to your order, and we will do our best to accommodate your request."
+      },
+      {
+        "question": "What if an item is out of stock?",
+        "answer": "If an item is out of stock, you can sign up for a restock notification on the product page. We will notify you as soon as it is back in stock."
+      },
+      {
+        "question": "How can I leave a product review?",
+        "answer": "You can leave a product review by logging into your account, going to the product page, and clicking on 'Write a Review'."
+      }
+    ]
+  }
+  
